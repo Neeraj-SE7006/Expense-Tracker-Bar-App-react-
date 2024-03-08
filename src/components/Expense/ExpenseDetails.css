@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.details{
+    height: 10vh;
+    background-color: gray transparent;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    border-radius: 4%;
+    padding: 10px;
+}
+
+.detail-div1{
+    width: 200px;
+    padding: 2px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.detail-div2{
+    width: 150px;
+    padding: 2px;
+    margin-left: 500px;
+    font-size: 25px;
+    background-color: brown;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
